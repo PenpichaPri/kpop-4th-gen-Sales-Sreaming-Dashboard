@@ -6,7 +6,7 @@
 - แผนภูมิและข้อมูลที่แสดง:
   - Most Stream 4th Gen Groups on Spotify: แสดงจำนวนสตรีมของศิลปินที่มียอดฟังสูงสุด โดยวงที่มียอดฟังสูงสุดคือ วง Stray Kids
   - Top-Selling Artists of 4th Gen K-pop: กราฟแท่งเปรียบเทียบยอดขายรวมของศิลปินแต่ละวง โดยวงที่มียอดขายรวมสูงสุดคือ วง Stray Kids
-  - Top 5 Best-Selling First-Day Albums: แสดง 5 อัลบั้มที่มียอดขายวันแรกสูงสุดในรูปแบบ Bubble Chart
+  - Top 5 Best-Selling First-Day Albums: แสดง 5 อัลบั้มที่มียอดขายวันแรกสูงสุดในรูปแบบ Bubble Chart โดยวงที่มียอดขายเปิดตัววันแรกสูงสุดคือ วง Stray Kids
   - Best-Selling Groups by Year (2018-2022): กราฟเปรียบเทียบยอดขายของวงที่ขายดีที่สุดในแต่ละปี
   - Total Sales vs. Stream: Scatter Plot เปรียบเทียบความสัมพันธ์ระหว่างยอดขายและจำนวนสตรีม
 - ข้อมูลสำคัญที่สรุปได้:
